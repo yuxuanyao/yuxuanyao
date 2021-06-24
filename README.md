@@ -1,5 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Yuxuan 👋
+
+### About Me...
+- Between 3rd and 4th Year of Computer Engineering at University of Toronto ... Grad date is still pending
+- Interested in Blockchain Development, DeFi, Finance, Scripting, and Software Development in general
+
+### 🔭 I’m currently working on ...
+- Trading on Decentralized Exchanges with Web3
+
+### 🌱 I’m currently learning & researching...
+- Implementing Arbitrage strategies
+- Flashloan usecases
+- Running a blockchain node using cloud services
+
+### Past Internship Experience
+- Microsoft (x2) - Azure COSINE Windows Servicing & Delivery
+- Google (x1) - Google Cloud Kubernetes
+- Huawei (x1) - AI Application on Pre-6G Wireless Communciations
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css,glsl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
@@ -7,12 +26,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
