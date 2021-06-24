@@ -10,6 +10,7 @@
 ### 🌱 I’m currently learning & researching...
 - Implementing Arbitrage strategies
 - Flashloan usecases
+- MEV Extraction
 - Running a blockchain node using cloud services
 
 ### Past Internship Experience
