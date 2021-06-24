@@ -13,9 +13,9 @@
 - Running a blockchain node using cloud services
 
 ### Past Internship Experience
-- Microsoft (x2) - Azure COSINE Windows Servicing & Delivery
-- Google (x1) - Google Cloud Kubernetes
-- Huawei (x1) - AI Application on Pre-6G Wireless Communciations
+- Microsoft - Azure COSINE Windows Servicing & Delivery
+- Google - Google Cloud Kubernetes
+- Huawei - AI Application on Pre-6G Wireless Communciations
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css,glsl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
